@@ -5,7 +5,7 @@ public class Main {
         futbol.imparator="06";
         futbol.jardel="11";
         modernEfsaneler efso=new modernEfsaneler();
-        efso.icardi=22;
+        efso.icardi="22";
         efso.zaniola="59";
     }
 }
